@@ -1,0 +1,12 @@
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\bin\Debug\net6.0\De_SerializationLibrary.deps.json
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\bin\Debug\net6.0\De_SerializationLibrary.dll
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\bin\Debug\net6.0\De_SerializationLibrary.pdb
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\obj\Debug\net6.0\De_SerializationLibrary.csproj.AssemblyReference.cache
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\obj\Debug\net6.0\De_SerializationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\obj\Debug\net6.0\De_SerializationLibrary.AssemblyInfoInputs.cache
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\obj\Debug\net6.0\De_SerializationLibrary.AssemblyInfo.cs
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\obj\Debug\net6.0\De_SerializationLibrary.csproj.CoreCompileInputs.cache
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\obj\Debug\net6.0\De_SerializationLibrary.dll
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\obj\Debug\net6.0\refint\De_SerializationLibrary.dll
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\obj\Debug\net6.0\De_SerializationLibrary.pdb
+D:\Yarik\mpt\c#\practics_2\libraryWPF\De_SerializationLibrary\obj\Debug\net6.0\ref\De_SerializationLibrary.dll
